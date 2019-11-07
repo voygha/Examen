@@ -1,0 +1,7 @@
+CUENTA FTP
+
+Nombre de usuario de FTP: mybiosfera@mybiosfera.com
+Servidor FTP: ftp.notigreen.com
+Puerto FTPS explícito de FTP &:  21
+
+contra: Mybiosfera105
